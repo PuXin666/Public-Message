@@ -1,6 +1,6 @@
-# Public-Message
+# Public-Message（QQ：2149414610）
 
-# 1、基于ACE的FTP服务器的实现（QQ：2149414610）
+# 1、基于ACE的FTP服务器的实现
 
 效果图如下：
 
